@@ -1,3 +1,10 @@
+#A Data-Driven Framework for Assessing Operational Resilience in Ireland’s Dairy Processing Sector
+
+##Seasonal Milk Forecasting, Fuel-Cost Sensitivity and Predictive Maintenance Risk
+
+
+
+
 # Project References and Links
 
 - **Teagasc News:** [The Irish dairy sector](https://teagasc.ie/news--events/news/irish-dairy-sector/)
