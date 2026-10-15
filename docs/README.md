@@ -1,4 +1,4 @@
-# A Data-Driven Framework for Assessing Operational Resilience in Ireland’s Dairy Processing Sector                          ## Seasonal Milk Forecasting, Fuel-Cost Sensitivity and Predictive Maintenance Risk
+# A Data-Driven Framework for Assessing Operational Resilience in Ireland’s Dairy Processing Sector - Seasonal Milk Forecasting, Fuel-Cost Sensitivity and Predictive Maintenance Risk
 
 
 
